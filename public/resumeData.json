@@ -1,0 +1,94 @@
+{
+  "main": {
+    "name": "Bikbulatov Rustam",
+    "occupation": "Python developer",
+    "description": "1 year of working in blockchain development",
+    "image": "ph.jpg",
+    "bio": "Hi there! I am Rustam! Deep knowledge in smart contracts and data structures. Looking for a job as a Blockchain Developer that will allow me to build the financial system of tomorrow.",
+    "contactmessage": "Get in touch with me to be a part of the BIZ fam!",
+    "email": "rusbik98@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Astana",
+      "state": "",
+      "zip": "W3B D3V"
+    },
+    "website": "https://github.com/Rstham",
+    "resumedownload": "https://github.com/Rstham",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Rstham",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "",
+        "degree": "",
+        "graduated": "",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "The BIZ",
+        "title": "Developer",
+        "years": "May 2022 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "99%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Go",
+        "level": "60%"
+      },
+      {
+        "name": "Solidity",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Wallet with a transfer into a different networks",
+        "category": "",
+        "image": "25.png",
+        "url": ""
+      }
+    ]
+  }
+}
